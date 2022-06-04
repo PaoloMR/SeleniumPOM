@@ -1,0 +1,8 @@
+<suit name = "Run All Test" verbose ="2">
+    <test preserve-order="true" name = "Regression" >
+        <classes>
+            <class name="test.ContactPage_Test"/>
+            <class name="test.ShopPage_Test"/>
+        </classes>
+    </test>
+</suit>

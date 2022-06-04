@@ -1,0 +1,19 @@
+
+m	java:S116"SRename this field "tab_home" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯øÎñüÿÿÿÿ
+m	java:S116"SRename this field "tab_shop" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ¥€·üÿÿÿÿ
+r	java:S116"XRename this field "button_submit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×þŸ„ÿÿÿÿÿ
+n	java:S116"YRename this field "message_header" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³¸®í
+v	java:S116"aRename this field "message_success_header" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«€ÃŠ
+n	java:S116"YRename this field "alert_forename" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¦ÆÒ
+k	java:S116"VRename this field "alert_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™•êÑ
+m	java:S116"XRename this field "alert_message" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šù´²
+u	java:S116"[Rename this field "textbox_forename" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óàºôýÿÿÿÿ
+r	java:S116"XRename this field "textbox_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÅÔíþÿÿÿÿ
+t	java:S116"ZRename this field "textbox_message" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Ÿîáüÿÿÿÿ
+{	java:S116"aRename this field "modal_sending_feedback" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Éº›üÿÿÿÿ
+D
+java:S2387	"."driver" is the name of a field in "BasePage".(æ¹•‹
+r	java:S127l"XRefactor the code in order to not assign to this loop counter from within the loop body.(–Ý…Èùÿÿÿÿ
+f	java:S117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ–ÅÏ
+f	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ÏäŸ
+k	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÓ²¿ýÿÿÿÿ

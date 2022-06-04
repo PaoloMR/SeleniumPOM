@@ -1,0 +1,27 @@
+
+m	java:S116"SRename this field "tab_home" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯øÎñüÿÿÿÿ
+m	java:S116"SRename this field "tab_shop" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ¥€·üÿÿÿÿ
+p	java:S116"VRename this field "tab_contact" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¦„ıÿÿÿÿ
+k	java:S116"VRename this field "label_total" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…½Àş
+D
+java:S2387"."driver" is the name of a field in "BasePage".(æ¹•‹
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ™²³şÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øä
+b	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«›Ã
+c	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê‹‡…
+O
+java:S2130W"9Use "Integer.parseInt" for this string-to-int conversion.(‚¶¶Ÿ
+c	java:S100c"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’‘üˆ
+c	java:S100y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÀ‘÷
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ™²³şÿÿÿÿ
+f	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àµ†î
+f	java:S117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àµ†î
+k	java:S117d"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÑÈ„ıÿÿÿÿ
+f	java:S117j"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àµ†î
+k	java:S117u"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦¢Éİüÿÿÿÿ
+}
+java:S1488Q"bImmediately return this expression instead of assigning it to the temporary variable "decimalInt".(’—ï¬şÿÿÿÿ
+t
+java:S1488W"^Immediately return this expression instead of assigning it to the temporary variable "number".(‚¶¶Ÿ
+z
+java:S1488_"dImmediately return this expression instead of assigning it to the temporary variable "doubleNumber".(ÍÃ‰
